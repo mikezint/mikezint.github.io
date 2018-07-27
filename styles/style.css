@@ -1,0 +1,27 @@
+html {
+    background-image: url("../pics/jellybeans.jpg");
+}
+
+body {
+    background-color: #444;
+    color: #fff;
+    width: 80%;
+    min-width: 400px;
+    margin: 0 auto;
+}
+
+
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+}
+
+/* footer */
+
+footer p, footer button {
+    display: inline;
+}
